@@ -2,7 +2,7 @@
 
 A fantastic credit card form with smooth and sweet micro-interactions. Includes number formatting, validation and automatic card type detection. Built with reactjs and also fully responsive
 
-### Demo
+### Demo:   https://syedsimanta03.github.io/react-payment-card/
 
 ![](demo.gif)
 
